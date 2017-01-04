@@ -1,8 +1,8 @@
 # Bootstrap Starter Kit
 
-Use this bootstrap starter kit to quickly get started with bootstrap. Skip the boring steps of having to create an assets folder. Everything is already included for you. 
+Use this bootstrap starter kit to quickly get started with bootstrap. Skip the boring steps of having to create an assets folder. Everything is already included for you.
 
-###View test <a href="http://f.carlosbaston.com/bootstrap-starter-kit/test.html">page.</a>
+###View test <a href="http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html">http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html</a>
 
 #####Included:
 
