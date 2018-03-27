@@ -19,7 +19,8 @@
 6. Wow JS  v1.1.2
 
 ### Extras
- | 
+
+Extra Name | Added 
 --- | --- 
 Sticky Footer |     &#x2714;
 Sass Ready |  &#x2714;
