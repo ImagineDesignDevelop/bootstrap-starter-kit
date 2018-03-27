@@ -1,6 +1,7 @@
-## Bootstrap Starter Kit
-**updated to bootstrap 4**
+# Bootstrap Starter Kit
 ---
+
+**updated to bootstrap 4**
 
 *Use this bootstrap starter kit to quickly get started with bootstrap. Skip the boring steps of having to create an assets folder. Everything is already included for you.*
 
@@ -18,6 +19,7 @@
 6. Wow JS  v1.1.2
 
 ### Extras
-
+ | 
+--- | --- 
 Sticky Footer |     &#x2714;
 Sass Ready |  &#x2714;
