@@ -1,16 +1,22 @@
 # Bootstrap Starter Kit
+**updated to bootstrap 4**
 
-Use this bootstrap starter kit to quickly get started with bootstrap. Skip the boring steps of having to create an assets folder. Everything is already included for you.
+*Use this bootstrap starter kit to quickly get started with bootstrap. Skip the boring steps of having to create an assets folder. Everything is already included for you.*
 
-###View test <a href="http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html">http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html</a>
+### Test page:
 
-#####Included:
+![Bootstrap Starter Kit](http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html "Bootstrap Starter Kit")
 
-1. Bootstrap v3.3.6  
+### Things Included:
+
+1. Bootstrap v4.0  
 2. JQuery v2.2.3  
-3. Font Awesome  
-4. Sticky Footer  
-5. Animate CSS  
-6. Hover CSS  
-7. Wow JS  
-8. Sass Ready  
+3. Font Awesome v4.6.1 
+4. Animate CSS  
+5. Hover CSS  v2.0.1
+6. Wow JS  v1.1.2
+
+### Extras
+
+Sticky Footer |     &#x2714;
+Sass Ready |  &#x2714;
