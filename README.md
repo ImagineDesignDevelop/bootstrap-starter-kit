@@ -5,7 +5,7 @@
 
 ### Test page:
 
-![Bootstrap Starter Kit](http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html "Bootstrap Starter Kit")
+[http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html](http://imaginedesigndevelop.com/bootstrap-starter-kit/test.html)
 
 ### Things Included:
 
