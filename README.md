@@ -9,7 +9,7 @@
 
 ### Test page:
 
-[http://bootstap-starter-kit.carlosbaston.com/test.html](http://bootstap-starter-kit.carlosbaston.com/test.html)
+[http://bootstrap-starter-kit.carlosbaston.com/test.html](http://bootstrap-starter-kit.carlosbaston.com/test.html)
 
 ### Things Included:
 
