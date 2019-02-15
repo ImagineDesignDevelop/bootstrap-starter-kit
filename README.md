@@ -9,20 +9,20 @@
 
 ### Test page:
 
-[http://bootstrap-starter-kit.carlosbaston.com/test.html](http://bootstrap-starter-kit.carlosbaston.com/test.html)
+[https://goofy-swanson-0e9cdf.netlify.com/](https://goofy-swanson-0e9cdf.netlify.com/)
 
 ### Things Included:
 
-1. Bootstrap v4.0  
-2. JQuery v2.2.3  
-3. Font Awesome v4.6.1 
-4. Animate CSS  
+1. Bootstrap v4.0
+2. JQuery v2.2.3
+3. Font Awesome v4.6.1
+4. Animate CSS
 5. Hover CSS  v2.0.1
 6. Wow JS  v1.1.2
 
 ### Extras
 
-Extra Name | Added 
---- | --- 
+Extra Name | Added
+--- | ---
 Sticky Footer |     &#x2714;
 Sass Ready |  &#x2714;
