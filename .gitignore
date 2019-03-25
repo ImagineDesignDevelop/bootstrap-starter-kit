@@ -4,3 +4,4 @@ Thumbs.db
 .sql
 .sass-cache/
 .codekit-config.json
+.vagrant/
