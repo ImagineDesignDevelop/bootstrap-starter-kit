@@ -1,1 +1,0 @@
-{"nfs":{"/var/www/html":{"nfs":{"mount_options":["dmode=777","fmode=666"]},"guestpath":"/var/www/html","hostpath":"/Users/gx5n/Desktop/projects/bootstrap-starter-kit","disabled":false,"type":"nfs","__vagrantfile":true,"map_uid":1084117234,"map_gid":1388245465,"nfs_version":3,"nfs_udp":true,"uuid":"1752912892"}}}
